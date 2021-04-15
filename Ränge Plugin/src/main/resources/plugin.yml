@@ -1,0 +1,7 @@
+name: Ränge Plugin
+version: ${project.version}
+main: de.kauper.rang.Rang
+api-version: 1.16
+authors: [ Liam ]
+description: Ein Plugin zur Rang und Rechte verwaltung von Spielern und der Tabliste.
+website: https://liam.kauper.de/

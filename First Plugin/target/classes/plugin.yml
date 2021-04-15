@@ -1,0 +1,17 @@
+name: First_Plugin
+version: 1.0-SNAPSHOT
+main: de.kauper.first_plugin.First_Plugin
+api-version: 1.15
+authors: [ Liam ]
+description: Mein erstes Plugin
+website: https://liam.kauper.de
+
+commands:
+  heal:
+    description: Heilt einen Player voll
+    aliases: ["healme"]
+
+permissions:
+  de.kauper.first_plugin.heal:
+    description: Damit kannst du dich heilen.
+    default: op
