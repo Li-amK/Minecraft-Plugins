@@ -1,0 +1,17 @@
+name: Jonas
+version: '1.0'
+main: geburtstag.jonas.Jonas
+api-version: 1.18
+authors: [Jonas, Liam]
+description: Minecraft Plugin für Jonas Geburtstag
+website: https://kauper.de
+
+commands:
+  heal:
+    description: Dieser Befehl heilt dich.
+    aliases: ["h"]
+
+permissions:
+  geburtstag.Jonas.heal:
+    description: Dieser Befehl heilt dich.
+    default: op
