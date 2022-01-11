@@ -1,5 +1,5 @@
 # Minecraft-Plugins
-Minecraft Plugins von mir und freunden.
+Minecraft Plugins von mir und freunden für [Paper Minecraft Server](https://papermc.io/).
 
 # Inhalt
 
