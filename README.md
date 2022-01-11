@@ -6,7 +6,7 @@ Minecraft Plugins von mir und freunden.
   ## [First Plugin](https://github.com/Li-amK/Minecraft-Plugins/tree/main/First%20Plugin)
   kann garnichts uns war eigentlich nur ein test
 
-  ## [Geburstag Jonas]()
+  ## [Geburstag Jonas](https://github.com/Li-amK/Minecraft-Plugins/tree/main/Geburstag%20Jonas)
   Plugin für den Geburstag eines Freundes mit mehreren funktionen u.a.
   - Einteilung der Spieler in Klasen mit eigenen Fähigkeiten (z.B. Heiler, etc.)
   
