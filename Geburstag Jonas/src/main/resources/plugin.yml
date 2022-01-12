@@ -10,8 +10,14 @@ commands:
   heal:
     description: Dieser Befehl heilt dich.
     aliases: ["h"]
+  home:
+    description: Teleport zurück nach hause.
+    aliases: [ "spawn" ]
 
 permissions:
   geburtstag.Jonas.heal:
     description: Dieser Befehl heilt dich.
+    default: op
+  geburtstag.Jonas.home:
+    description: Teleport zurück nach hause.
     default: op

@@ -1,7 +1,7 @@
 package geburtstag.jonas;
 
-import com.sun.org.apache.xpath.internal.objects.XString;
 import geburtstag.jonas.commands.HealCommand;
+import geburtstag.jonas.commands.HomeCommand;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -35,6 +35,7 @@ public final class Jonas extends JavaPlugin {
 
     private void register() {
         Bukkit.getPluginCommand("heal").setExecutor(new HealCommand());
+        Bukkit.getPluginCommand("home").setExecutor(new HomeCommand());
     }
 
 }

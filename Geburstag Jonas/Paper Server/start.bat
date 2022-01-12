@@ -1,0 +1,1 @@
+java -jar paper-1.18.1.jar nogui
